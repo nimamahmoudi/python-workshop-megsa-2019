@@ -21,6 +21,7 @@ project = 'Python Workshop'
 copyright = '2019, Nima Mahmoudi'
 author = 'Nima Mahmoudi'
 master_doc = 'index'
+html_theme = "sphinx_rtd_theme"
 
 
 # -- General configuration ---------------------------------------------------
