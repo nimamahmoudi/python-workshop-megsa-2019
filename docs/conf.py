@@ -20,6 +20,7 @@
 project = 'Python Workshop'
 copyright = '2019, Nima Mahmoudi'
 author = 'Nima Mahmoudi'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
