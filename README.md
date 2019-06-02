@@ -4,7 +4,7 @@ This was one of MEGSA speaker series '19/ University of Alberta \[[Link](https:/
 
 # Slides
 
-- Slides will be available [online](http://nima-dev.com/python-workshop-megsa-2019/)
+Slides will be available [online](http://nima-dev.com/python-workshop-megsa-2019/)
 
 # Content
 
