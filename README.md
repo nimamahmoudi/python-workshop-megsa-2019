@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nimamahmoudi/python-workshop-megsa-2019/master)
+
+
 # Introduction to Python Workshop
 
 This was one of MEGSA speaker series '19/ University of Alberta \[[Link](https://sites.ualberta.ca/~megsa/index.html)\].
