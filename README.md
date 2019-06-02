@@ -25,6 +25,8 @@ To be updated...
 # References
 
 - [A Byte of Python](https://python.swaroopch.com/)
+- [Learning Python: From Zero to Hero](https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5)
+- [5 Reasons Why Learning Python Is the Best Decision](https://medium.com/datadriveninvestor/5-reasons-why-i-learned-python-and-why-you-should-learn-it-as-well-917f781aea05)
 
 # Useful Links
 
