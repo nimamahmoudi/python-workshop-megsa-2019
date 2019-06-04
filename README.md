@@ -48,7 +48,7 @@ jupyter notebook .
 
 # Running
 
-In order to run the example notebooks provided here, you need to repeate steps 4 and 5 of the installation procedure.
+In order to run the example notebooks provided here, you need to repeat steps 4 and 5 of the installation procedure.
 
 # References
 
