@@ -9,7 +9,7 @@ FYI: Don't forget to bring your laptops!
 
 # Slides
 
-Slides will be available [online](http://nima-dev.com/python-workshop-megsa-2019/)
+Slides will be available [online](http://nima-dev.com/python-workshop-megsa-2019/).
 
 # Content
 
