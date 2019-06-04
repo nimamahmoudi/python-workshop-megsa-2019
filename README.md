@@ -40,7 +40,7 @@ conda env create -f environment.yml
 ```bash
 conda activate pyworkshop
 ```
-    - Note that each time you want to use this environment, you need to activate the environment again.
+ - Note that each time you want to use this environment, you need to activate the environment again.
 5. Start [Jupyter Notebook](https://jupyter.org/):
 ```bash
 jupyter notebook .
