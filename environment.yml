@@ -1,0 +1,6 @@
+name: pyworkshop
+channels:
+  - defaults
+dependencies:
+  - python=3.6.*
+  - jupyter=1.0.*
