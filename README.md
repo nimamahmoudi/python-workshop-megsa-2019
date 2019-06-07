@@ -68,6 +68,7 @@ https://pypi.org
 https://pypi.org/project/pip/
 https://python.swaroopch.com/
 https://www.slideshare.net/saketkc/python-workshop-11152935
+https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a
 ```
 
 ## Contact
