@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nimamahmoudi/python-workshop-megsa-2019/master?filepath=notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nimamahmoudi/python-workshop-megsa-2019/master?filepath=notebooks){:target="_blank"}
 
 
 # Introduction to Python Workshop
