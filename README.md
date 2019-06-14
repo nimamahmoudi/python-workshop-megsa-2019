@@ -17,7 +17,9 @@ Take a look at the slides.
 
 # Videos
 
-Video of the workshop will be uploaded on Youtube. Check again after the workshop.
+You can find the videos for this workshop in youtube:
+- [Part1](https://youtu.be/rWqS9v5q0_o)
+- [Part2](https://youtu.be/rbeFDrWEwt4)
 
 # Setting up
 
